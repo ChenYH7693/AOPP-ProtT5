@@ -1,0 +1,605 @@
+name,SEQUENCE,label,SEQUENCE_space
+AntioxidantTrain,HK,1,H K
+AntioxidantTrain,QL,1,Q L
+AntioxidantTrain,MM,1,M M
+AntioxidantTrain,PP,1,P P
+AntioxidantTrain,HC,1,H C
+AntioxidantTrain,AHK,1,A H K
+AntioxidantTrain,PHH,1,P H H
+AntioxidantTrain,HLH,1,H L H
+AntioxidantTrain,GEY,1,G E Y
+AntioxidantTrain,IKL,1,I K L
+AntioxidantTrain,CME,1,C M E
+AntioxidantTrain,GPE,1,G P E
+AntioxidantTrain,RHL,1,R H L
+AntioxidantTrain,VFD,1,V F D
+AntioxidantTrain,INY,1,I N Y
+AntioxidantTrain,WYS,1,W Y S
+AntioxidantTrain,VKL,1,V K L
+AntioxidantTrain,LDY,1,L D Y
+AntioxidantTrain,WDR,1,W D R
+AntioxidantTrain,RGY,1,R G Y
+AntioxidantTrain,YQK,1,Y Q K
+AntioxidantTrain,CLV,1,C L V
+AntioxidantTrain,ALI,1,A L I
+AntioxidantTrain,LIV,1,L I V
+AntioxidantTrain,LDI,1,L D I
+AntioxidantTrain,DIQ,1,D I Q
+AntioxidantTrain,TWY,1,T W Y
+AntioxidantTrain,SLA,1,S L A
+AntioxidantTrain,SDI,1,S D I
+AntioxidantTrain,LLD,1,L L D
+AntioxidantTrain,LRV,1,L R V
+AntioxidantTrain,RVY,1,R V Y
+AntioxidantTrain,EEL,1,E E L
+AntioxidantTrain,DLE,1,D L E
+AntioxidantTrain,WEN,1,W E N
+AntioxidantTrain,ECA,1,E C A
+AntioxidantTrain,CAQ,1,C A Q
+AntioxidantTrain,QKK,1,Q K K
+AntioxidantTrain,KKI,1,K K I
+AntioxidantTrain,KII,1,K I I
+AntioxidantTrain,KTK,1,K T K
+AntioxidantTrain,PAV,1,P A V
+AntioxidantTrain,ENK,1,E N K
+AntioxidantTrain,NKV,1,N K V
+AntioxidantTrain,YKK,1,Y K K
+AntioxidantTrain,QSL,1,Q S L
+AntioxidantTrain,LAC,1,L A C
+AntioxidantTrain,PEV,1,P E V
+AntioxidantTrain,EVD,1,E V D
+AntioxidantTrain,DEA,1,D E A
+AntioxidantTrain,PTQ,1,P T Q
+AntioxidantTrain,EEQ,1,E E Q
+AntioxidantTrain,FSL,1,F S L
+AntioxidantTrain,STW,1,S T W
+AntioxidantTrain,ETW,1,E T W
+AntioxidantTrain,GQW,1,G Q W
+AntioxidantTrain,YYV,1,Y Y V
+AntioxidantTrain,VYY,1,V Y Y
+AntioxidantTrain,MWC,1,M W C
+AntioxidantTrain,RDY,1,R D Y
+AntioxidantTrain,IHH,1,I H H
+AntioxidantTrain,VVH,1,V V H
+AntioxidantTrain,LHF,1,L H F
+AntioxidantTrain,LHG,1,L H G
+AntioxidantTrain,LHI,1,L H I
+AntioxidantTrain,LWT,1,L W T
+AntioxidantTrain,LWY,1,L W Y
+AntioxidantTrain,PHA,1,P H A
+AntioxidantTrain,PHG,1,P H G
+AntioxidantTrain,PHR,1,P H R
+AntioxidantTrain,PHY,1,P H Y
+AntioxidantTrain,PWA,1,P W A
+AntioxidantTrain,PWD,1,P W D
+AntioxidantTrain,PWH,1,P W H
+AntioxidantTrain,PWQ,1,P W Q
+AntioxidantTrain,RHN,1,R H N
+AntioxidantTrain,RHQ,1,R H Q
+AntioxidantTrain,RHT,1,R H T
+AntioxidantTrain,RWH,1,R W H
+AntioxidantTrain,RWY,1,R W Y
+AntioxidantTrain,HDH,1,H D H
+AntioxidantTrain,YKY,1,Y K Y
+AntioxidantTrain,YYH,1,Y Y H
+AntioxidantTrain,IYY,1,I Y Y
+AntioxidantTrain,WYY,1,W Y Y
+AntioxidantTrain,YYF,1,Y Y F
+AntioxidantTrain,YYW,1,Y Y W
+AntioxidantTrain,YYM,1,Y Y M
+AntioxidantTrain,YTY,1,Y T Y
+AntioxidantTrain,CAAP,1,C A A P
+AntioxidantTrain,WVYY,1,W V Y Y
+AntioxidantTrain,EFQI,1,E F Q I
+AntioxidantTrain,VSYT,1,V S Y T
+AntioxidantTrain,PYPQ,1,P Y P Q
+AntioxidantTrain,YQKF,1,Y Q K F
+AntioxidantTrain,LARL,1,L A R L
+AntioxidantTrain,GAWA,1,G A W A
+AntioxidantTrain,PHYL,1,P H Y L
+AntioxidantTrain,DHHK,1,D H H K
+AntioxidantTrain,GGIF,1,G G I F
+AntioxidantTrain,AWFS,1,A W F S
+AntioxidantTrain,IVPK,1,I V P K
+AntioxidantTrain,MMGW,1,M M G W
+AntioxidantTrain,QFAW,1,Q F A W
+AntioxidantTrain,TSTA,1,T S T A
+AntioxidantTrain,FLPE,1,F L P E
+AntioxidantTrain,ACFL,1,A C F L
+AntioxidantTrain,AGWNI,1,A G W N I
+AntioxidantTrain,MDGAP,1,M D G A P
+AntioxidantTrain,VKCFR,1,V K C F R
+AntioxidantTrain,MILMR,1,M I L M R
+AntioxidantTrain,TERGY,1,T E R G Y
+AntioxidantTrain,FDEQE,1,F D E Q E
+AntioxidantTrain,YYDPL,1,Y Y D P L
+AntioxidantTrain,GVPLT,1,G V P L T
+AntioxidantTrain,DWDPK,1,D W D P K
+AntioxidantTrain,LVSGM,1,L V S G M
+AntioxidantTrain,LWHTH,1,L W H T H
+AntioxidantTrain,PQFYW,1,P Q F Y W
+AntioxidantTrain,VVLYR,1,V V L Y R
+AntioxidantTrain,IIAEK,1,I I A E K
+AntioxidantTrain,LLNPT,1,L L N P T
+AntioxidantTrain,PDLVF,1,P D L V F
+AntioxidantTrain,GQVPP,1,G Q V P P
+AntioxidantTrain,SALAM,1,S A L A M
+AntioxidantTrain,NKGPR,1,N K G P R
+AntioxidantTrain,LPILR,1,L P I L R
+AntioxidantTrain,YGFLP,1,Y G F L P
+AntioxidantTrain,YPLDL,1,Y P L D L
+AntioxidantTrain,YPPAK,1,Y P P A K
+AntioxidantTrain,PVMGA,1,P V M G A
+AntioxidantTrain,LLPHHH,1,L L P H H H
+AntioxidantTrain,VEIPHD,1,V E I P H D
+AntioxidantTrain,TSNLLT,1,T S N L L T
+AntioxidantTrain,VSLPEW,1,V S L P E W
+AntioxidantTrain,QYDQGV,1,Q Y D Q G V
+AntioxidantTrain,VPLSPT,1,V P L S P T
+AntioxidantTrain,FDGEVK,1,F D G E V K
+AntioxidantTrain,VVVVPH,1,V V V V P H
+AntioxidantTrain,FHNMEK,1,F H N M E K
+AntioxidantTrain,SPYCYG,1,S P Y C Y G
+AntioxidantTrain,GIISHR,1,G I I S H R
+AntioxidantTrain,GFYPPP,1,G F Y P P P
+AntioxidantTrain,ESIINF,1,E S I I N F
+AntioxidantTrain,WNMNAH,1,W N M N A H
+AntioxidantTrain,TPCPPQ,1,T P C P P Q
+AntioxidantTrain,FDPFPK,1,F D P F P K
+AntioxidantTrain,IDDVLK,1,I D D V L K
+AntioxidantTrain,RWWQLR,1,R W W Q L R
+AntioxidantTrain,SGYYMH,1,S G Y Y M H
+AntioxidantTrain,LGTFQN,1,L G T F Q N
+AntioxidantTrain,LHALLL,1,L H A L L L
+AntioxidantTrain,HLPLPL,1,H L P L P L
+AntioxidantTrain,WISELG,1,W I S E L G
+AntioxidantTrain,VHHANEN,1,V H H A N E N
+AntioxidantTrain,AVPYPQR,1,A V P Y P Q R
+AntioxidantTrain,TIIPLPV,1,T I I P L P V
+AntioxidantTrain,IPIQYVL,1,I P I Q Y V L
+AntioxidantTrain,YGNWLYK,1,Y G N W L Y K
+AntioxidantTrain,LTTLDSE,1,L T T L D S E
+AntioxidantTrain,HLPLPLL,1,H L P L P L L
+AntioxidantTrain,QVVPYPQ,1,Q V V P Y P Q
+AntioxidantTrain,FSDKIAK,1,F S D K I A K
+AntioxidantTrain,LPDEVSG,1,L P D E V S G
+AntioxidantTrain,MVPYPQR,1,M V P Y P Q R
+AntioxidantTrain,DLVKVEA,1,D L V K V E A
+AntioxidantTrain,VGGDGDV,1,V G G D G D V
+AntioxidantTrain,LAPSTIK,1,L A P S T I K
+AntioxidantTrain,FKGPACA,1,F K G P A C A
+AntioxidantTrain,VKEAMPK,1,V K E A M P K
+AntioxidantTrain,AIRQGDVF,1,A I R Q G D V F
+AntioxidantTrain,KHNRGDEF,1,K H N R G D E F
+AntioxidantTrain,WHNVSGSP,1,W H N V S G S P
+AntioxidantTrain,SAEHGSLH,1,S A E H G S L H
+AntioxidantTrain,VVGGDGDV,1,V V G G D G D V
+AntioxidantTrain,FRADHPFL,1,F R A D H P F L
+AntioxidantTrain,ASPKPSSA,1,A S P K P S S A
+AntioxidantTrain,NYVADGLG,1,N Y V A D G L G
+AntioxidantTrain,FAPVPFDF,1,F A P V P F D F
+AntioxidantTrain,YPFPGPIP,1,Y P F P G P I P
+AntioxidantTrain,AIILHQQQ,1,A I I L H Q Q Q
+AntioxidantTrain,VSKSVLVK,1,V S K S V L V K
+AntioxidantTrain,ITFAAYRR,1,I T F A A Y R R
+AntioxidantTrain,DRVYIHPF,1,D R V Y I H P F
+AntioxidantTrain,LARNATPPR,1,L A R N A T P P R
+AntioxidantTrain,LQPGQGQQG,1,L Q P G Q G Q Q G
+AntioxidantTrain,VLSPPFTGE,1,V L S P P F T G E
+AntioxidantTrain,VAMVPPFET,1,V A M V P P F E T
+AntioxidantTrain,YAEERYPIL,1,Y A E E R Y P I L
+AntioxidantTrain,GASRHWYFL,1,G A S R H W Y F L
+AntioxidantTrain,VLSTSFPPK,1,V L S T S F P P K
+AntioxidantTrain,AAAPVAVAK,1,A A A P V A V A K
+AntioxidantTrain,YLAGNQEQE,1,Y L A G N Q E Q E
+AntioxidantTrain,NAVPITPTL,1,N A V P I T P T L
+AntioxidantTrain,MYGAVTPVK,1,M Y G A V T P V K
+AntioxidantTrain,AFDEGPWPK,1,A F D E G P W P K
+AntioxidantTrain,LLPHHADADY,1,L L P H H A D A D Y
+AntioxidantTrain,DVCGRDVNGY,1,D V C G R D V N G Y
+AntioxidantTrain,PVSHDHAPEY,1,P V S H D H A P E Y
+AntioxidantTrain,ASPAPAGLSY,1,A S P A P A G L S Y
+AntioxidantTrain,NIQFNEQKAL,1,N I Q F N E Q K A L
+AntioxidantTrain,LVEKGDVAFI,1,L V E K G D V A F I
+AntioxidantTrain,VKVLLEHPVL,1,V K V L L E H P V L
+AntioxidantTrain,AWEEREQGSR,1,A W E E R E Q G S R
+AntioxidantTrain,LPWRPATNVF,1,L P W R P A T N V F
+AntioxidantTrain,RVQVVNNNGK,1,R V Q V V N N N G K
+AntioxidantTrain,VLNPWDQVKR,1,V L N P W D Q V K R
+AntioxidantTrain,LCPVHRAADL,1,L C P V H R A A D L
+AntioxidantTrain,LLGPGLTNHA,1,L L G P G L T N H A
+AntioxidantTrain,VLNSNAAPLPN,1,V L N S N A A P L P N
+AntioxidantTrain,DHHQVYSPGEQ,1,D H H Q V Y S P G E Q
+AntioxidantTrain,YINQMPQKSRE,1,Y I N Q M P Q K S R E
+AntioxidantTrain,VVYFDQTQAQA,1,V V Y F D Q T Q A Q A
+AntioxidantTrain,GEQQQQPGMTR,1,G E Q Q Q Q P G M T R
+AntioxidantTrain,LAGNPHQQQQN,1,L A G N P H Q Q Q Q N
+AntioxidantTrain,HNLDTQTESDV,1,H N L D T Q T E S D V
+AntioxidantTrain,WSVWEQELEDR,1,W S V W E Q E L E D R
+AntioxidantTrain,IGINAENNQRN,1,I G I N A E N N Q R N
+AntioxidantTrain,GGVLPNINPVL,1,G G V L P N I N P V L
+AntioxidantTrain,VTSLDLPVLRW,1,V T S L D L P V L R W
+AntioxidantTrain,PLFQNKLAHAK,1,P L F Q N K L A H A K
+AntioxidantTrain,LRGIKNYRVAVL,1,L R G I K N Y R V A V L
+AntioxidantTrain,NMAVPDALAGPL,1,N M A V P D A L A G P L
+AntioxidantTrain,VLEESKGAPKPN,1,V L E E S K G A P K P N
+AntioxidantTrain,GQFNDKRWIPFG,1,G Q F N D K R W I P F G
+AntioxidantTrain,VTGRFAGHPAAQ,1,V T G R F A G H P A A Q
+AntioxidantTrain,AAAAAGGGEGEG,1,A A A A A G G G E G E G
+AntioxidantTrain,EQEEEESTGRMK,1,E Q E E E E S T G R M K
+AntioxidantTrain,SLVYPFPGPIPN,1,S L V Y P F P G P I P N
+AntioxidantTrain,LKQELEDLLEKQE,1,L K Q E L E D L L E K Q E
+AntioxidantTrain,MLELDPLNNLPRM,1,M L E L D P L N N L P R M
+AntioxidantTrain,NGPLLPSDEMDRA,1,N G P L L P S D E M D R A
+AntioxidantTrain,QQFQQSGQAQLTE,1,Q Q F Q Q S G Q A Q L T E
+AntioxidantTrain,QNIFSGFSTELLS,1,Q N I F S G F S T E L L S
+AntioxidantTrain,QETTGVEGPKGDT,1,Q E T T G V E G P K G D T
+AntioxidantTrain,MAPKHEMPFPKYP,1,M A P K H E M P F P K Y P
+AntioxidantTrain,EPVLGPVRGPFPI,1,E P V L G P V R G P F P I
+AntioxidantTrain,HDHAERFSGHDNED,1,H D H A E R F S G H D N E D
+AntioxidantTrain,FVNQPYLLYSVHMK,1,F V N Q P Y L L Y S V H M K
+AntioxidantTrain,PSLVGRPPVGKLTL,1,P S L V G R P P V G K L T L
+AntioxidantTrain,QGPIVLNPWDQVKR,1,Q G P I V L N P W D Q V K R
+AntioxidantTrain,ALPQYLKTVYQHQK,1,A L P Q Y L K T V Y Q H Q K
+AntioxidantTrain,HKEMPFPKYPVQPF,1,H K E M P F P K Y P V Q P F
+AntioxidantTrain,QEPVLGPVRGPFPI,1,Q E P V L G P V R G P F P I
+AntioxidantTrain,IPNPIGSENSGKIT,1,I P N P I G S E N S G K I T
+AntioxidantTrain,YQGPIVLNPWDQVK,1,Y Q G P I V L N P W D Q V K
+AntioxidantTrain,AMRLTYNRPCLGAT,1,A M R L T Y N R P C L G A T
+AntioxidantTrain,AMRLTYNKPCLYGT,1,A M R L T Y N K P C L Y G T
+AntioxidantTrain,EYNNHGSFREAHPGA,1,E Y N N H G S F R E A H P G A
+AntioxidantTrain,VLPVPQKKVLPVPQK,1,V L P V P Q K K V L P V P Q K
+AntioxidantTrain,NTVPAKSCQAQPTTM,1,N T V P A K S C Q A Q P T T M
+AntioxidantTrain,APFPEVFGKEKVNEL,1,A P F P E V F G K E K V N E L
+AntioxidantTrain,SKVLPVPQKAVPYPQ,1,S K V L P V P Q K A V P Y P Q
+AntioxidantTrain,ESTVPERTHPACPDFN,1,E S T V P E R T H P A C P D F N
+AntioxidantTrain,PGEKGSPGADGPIGAP,1,P G E K G S P G A D G P I G A P
+AntioxidantTrain,AAGAAAAARSAGQCGR,1,A A G A A A A A R S A G Q C G R
+AntioxidantTrain,AKYIPIQYVLSRYPSY,1,A K Y I P I Q Y V L S R Y P S Y
+AntioxidantTrain,PIAAEVYEHTEGSTTSY,1,P I A A E V Y E H T E G S T T S Y
+AntioxidantTrain,APSFSDIPNPIGSENSE,1,A P S F S D I P N P I G S E N S E
+AntioxidantTrain,YEADARSFHDLAEHDIRV,1,Y E A D A R S F H D L A E H D I R V
+AntioxidantTrain,IWCKDDQNPHSSNISCDKF,1,I W C K D D Q N P H S S N I S C D K F
+AntioxidantTrain,AYLQAQQLLPFNQLVRSPAA,1,A Y L Q A Q Q L L P F N Q L V R S P A A
+AntioxidantTrain,GAPKGCWTKSYPPQPCFGKK,1,G A P K G C W T K S Y P P Q P C F G K K
+AntioxidantTrain,WI,0,W I
+AntioxidantTrain,QS,0,Q S
+AntioxidantTrain,CN,0,C N
+AntioxidantTrain,MY,0,M Y
+AntioxidantTrain,RQ,0,R Q
+AntioxidantTrain,CL,0,C L
+AntioxidantTrain,SW,0,S W
+AntioxidantTrain,TI,0,T I
+AntioxidantTrain,WWV,0,W W V
+AntioxidantTrain,EEC,0,E E C
+AntioxidantTrain,SHI,0,S H I
+AntioxidantTrain,DTS,0,D T S
+AntioxidantTrain,DWR,0,D W R
+AntioxidantTrain,QCV,0,Q C V
+AntioxidantTrain,MLQ,0,M L Q
+AntioxidantTrain,KRG,0,K R G
+AntioxidantTrain,TCD,0,T C D
+AntioxidantTrain,TYM,0,T Y M
+AntioxidantTrain,QQW,0,Q Q W
+AntioxidantTrain,QIH,0,Q I H
+AntioxidantTrain,KRC,0,K R C
+AntioxidantTrain,MFW,0,M F W
+AntioxidantTrain,AMM,0,A M M
+AntioxidantTrain,WVN,0,W V N
+AntioxidantTrain,MSN,0,M S N
+AntioxidantTrain,CDE,0,C D E
+AntioxidantTrain,CSG,0,C S G
+AntioxidantTrain,HTV,0,H T V
+AntioxidantTrain,QTF,0,Q T F
+AntioxidantTrain,HCC,0,H C C
+AntioxidantTrain,MQE,0,M Q E
+AntioxidantTrain,KRQ,0,K R Q
+AntioxidantTrain,MRQ,0,M R Q
+AntioxidantTrain,THW,0,T H W
+AntioxidantTrain,RDQ,0,R D Q
+AntioxidantTrain,QIS,0,Q I S
+AntioxidantTrain,RMW,0,R M W
+AntioxidantTrain,QRS,0,Q R S
+AntioxidantTrain,RMI,0,R M I
+AntioxidantTrain,NWI,0,N W I
+AntioxidantTrain,KQM,0,K Q M
+AntioxidantTrain,NDT,0,N D T
+AntioxidantTrain,MTE,0,M T E
+AntioxidantTrain,FTM,0,F T M
+AntioxidantTrain,CYH,0,C Y H
+AntioxidantTrain,FWG,0,F W G
+AntioxidantTrain,CSN,0,C S N
+AntioxidantTrain,IRM,0,I R M
+AntioxidantTrain,MGQ,0,M G Q
+AntioxidantTrain,CQA,0,C Q A
+AntioxidantTrain,MES,0,M E S
+AntioxidantTrain,SCR,0,S C R
+AntioxidantTrain,HCH,0,H C H
+AntioxidantTrain,FNM,0,F N M
+AntioxidantTrain,NSC,0,N S C
+AntioxidantTrain,FMP,0,F M P
+AntioxidantTrain,CTAE,0,C T A E
+AntioxidantTrain,TMAQ,0,T M A Q
+AntioxidantTrain,MYQI,0,M Y Q I
+AntioxidantTrain,KERG,0,K E R G
+AntioxidantTrain,WTMN,0,W T M N
+AntioxidantTrain,QWEF,0,Q W E F
+AntioxidantTrain,NFMW,0,N F M W
+AntioxidantTrain,IEFM,0,I E F M
+AntioxidantTrain,SWNRW,0,S W N R W
+AntioxidantTrain,VTWVH,0,V T W V H
+AntioxidantTrain,EMRYT,0,E M R Y T
+AntioxidantTrain,WFGTW,0,W F G T W
+AntioxidantTrain,RQCHP,0,R Q C H P
+AntioxidantTrain,ANCWH,0,A N C W H
+AntioxidantTrain,RDFKI,0,R D F K I
+AntioxidantTrain,WSQKG,0,W S Q K G
+AntioxidantTrain,MSMMV,0,M S M M V
+AntioxidantTrain,RNGWC,0,R N G W C
+AntioxidantTrain,CFTVP,0,C F T V P
+AntioxidantTrain,ECKDP,0,E C K D P
+AntioxidantTrain,QRDQF,0,Q R D Q F
+AntioxidantTrain,WVEMF,0,W V E M F
+AntioxidantTrain,WNAWA,0,W N A W A
+AntioxidantTrain,WRRQN,0,W R R Q N
+AntioxidantTrain,VENMN,0,V E N M N
+AntioxidantTrain,WIKAN,0,W I K A N
+AntioxidantTrain,RDCKA,0,R D C K A
+AntioxidantTrain,CLRKN,0,C L R K N
+AntioxidantTrain,CVEPCH,0,C V E P C H
+AntioxidantTrain,KYWRQR,0,K Y W R Q R
+AntioxidantTrain,NNMMFK,0,N N M M F K
+AntioxidantTrain,NFKIHR,0,N F K I H R
+AntioxidantTrain,NSTHSC,0,N S T H S C
+AntioxidantTrain,QCHWQY,0,Q C H W Q Y
+AntioxidantTrain,CWIEAD,0,C W I E A D
+AntioxidantTrain,TMFAPW,0,T M F A P W
+AntioxidantTrain,SSNYCT,0,S S N Y C T
+AntioxidantTrain,QFMMMS,0,Q F M M M S
+AntioxidantTrain,MPMKRS,0,M P M K R S
+AntioxidantTrain,IWHENT,0,I W H E N T
+AntioxidantTrain,NQVFMM,0,N Q V F M M
+AntioxidantTrain,WRDCDL,0,W R D C D L
+AntioxidantTrain,TNKEKH,0,T N K E K H
+AntioxidantTrain,WSIQDN,0,W S I Q D N
+AntioxidantTrain,VQNMYGW,0,V Q N M Y G W
+AntioxidantTrain,VRGCCSE,0,V R G C C S E
+AntioxidantTrain,WYQWLKF,0,W Y Q W L K F
+AntioxidantTrain,FCRNHDS,0,F C R N H D S
+AntioxidantTrain,VDNWVCI,0,V D N W V C I
+AntioxidantTrain,WTIKVVI,0,W T I K V V I
+AntioxidantTrain,SDCSWEC,0,S D C S W E C
+AntioxidantTrain,WTIIKEM,0,W T I I K E M
+AntioxidantTrain,CSRYWLN,0,C S R Y W L N
+AntioxidantTrain,NMDVLHT,0,N M D V L H T
+AntioxidantTrain,TQWHCETS,0,T Q W H C E T S
+AntioxidantTrain,NCTVVWTY,0,N C T V V W T Y
+AntioxidantTrain,WIMKRFKI,0,W I M K R F K I
+AntioxidantTrain,VQWKACYE,0,V Q W K A C Y E
+AntioxidantTrain,IMSLAFCE,0,I M S L A F C E
+AntioxidantTrain,DFVIAFME,0,D F V I A F M E
+AntioxidantTrain,DHKMIQNF,0,D H K M I Q N F
+AntioxidantTrain,VISCQFVK,0,V I S C Q F V K
+AntioxidantTrain,CCRCHRGLW,0,C C R C H R G L W
+AntioxidantTrain,WMGYDKEKG,0,W M G Y D K E K G
+AntioxidantTrain,CYKTDLQMA,0,C Y K T D L Q M A
+AntioxidantTrain,EREQWNPNM,0,E R E Q W N P N M
+AntioxidantTrain,SMESMYWAGK,0,S M E S M Y W A G K
+AntioxidantTrain,PNFQYVRDFC,0,P N F Q Y V R D F C
+AntioxidantTrain,ISHVSMYSVL,0,I S H V S M Y S V L
+AntioxidantTrain,MLTLNRWGHN,0,M L T L N R W G H N
+AntioxidantTrain,HACREGDDSH,0,H A C R E G D D S H
+AntioxidantTrain,QIQWMCHYLQ,0,Q I Q W M C H Y L Q
+AntioxidantTrain,AMFQWDIMEHI,0,A M F Q W D I M E H I
+AntioxidantTrain,GDYMMRQKWMY,0,G D Y M M R Q K W M Y
+AntioxidantTrain,QNHAFHKHVRT,0,Q N H A F H K H V R T
+AntioxidantTrain,NYEDTDNRMVI,0,N Y E D T D N R M V I
+AntioxidantTrain,GHSWDWEKSWP,0,G H S W D W E K S W P
+AntioxidantTrain,ICDWFHKHNFL,0,I C D W F H K H N F L
+AntioxidantTrain,DNCHHKKTWSN,0,D N C H H K K T W S N
+AntioxidantTrain,NFEVYDMDITT,0,N F E V Y D M D I T T
+AntioxidantTrain,YHDFAWVQCIF,0,Y H D F A W V Q C I F
+AntioxidantTrain,LNKNWFVSCPR,0,L N K N W F V S C P R
+AntioxidantTrain,GKHFCEARQMQQ,0,G K H F C E A R Q M Q Q
+AntioxidantTrain,RQVMDEPMTNMS,0,R Q V M D E P M T N M S
+AntioxidantTrain,KNACYHFCFQTM,0,K N A C Y H F C F Q T M
+AntioxidantTrain,YEWWCTDAIAAQ,0,Y E W W C T D A I A A Q
+AntioxidantTrain,MAWECIWWKMVL,0,M A W E C I W W K M V L
+AntioxidantTrain,CTGNMNEGKFEM,0,C T G N M N E G K F E M
+AntioxidantTrain,VKTCTVWSCGVWH,0,V K T C T V W S C G V W H
+AntioxidantTrain,WQLMTNVTRHCSV,0,W Q L M T N V T R H C S V
+AntioxidantTrain,WWCCTNYYYKQVQ,0,W W C C T N Y Y Y K Q V Q
+AntioxidantTrain,DIWDCVLWTPIRP,0,D I W D C V L W T P I R P
+AntioxidantTrain,YFEWFTSAIQCLM,0,Y F E W F T S A I Q C L M
+AntioxidantTrain,KNIDFNSDCLDGE,0,K N I D F N S D C L D G E
+AntioxidantTrain,WMAIKKAGNHNKVM,0,W M A I K K A G N H N K V M
+AntioxidantTrain,RTKCFKDHQRRDCV,0,R T K C F K D H Q R R D C V
+AntioxidantTrain,DDEMKWTRPEFSQGS,0,D D E M K W T R P E F S Q G S
+AntioxidantTrain,LQRMCNLEFFHNQWDR,0,L Q R M C N L E F F H N Q W D R
+AntioxidantTrain,CMRKWKMDIIGTQQDE,0,C M R K W K M D I I G T Q Q D E
+AntioxidantTrain,NTINRVTKEHPGWTAV,0,N T I N R V T K E H P G W T A V
+AntioxidantTrain,VCRNYAFCPYTYHHEDC,0,V C R N Y A F C P Y T Y H H E D C
+AntioxidantTrain,CCHPTCAIPHWPQGWQS,0,C C H P T C A I P H W P Q G W Q S
+AntioxidantTrain,FECPFCRS,0,F E C P F C R S
+AntioxidantTrain,CGMWTGATQYDQKGRLI,0,C G M W T G A T Q Y D Q K G R L I
+AntioxidantTrain,GKCQLRMWAQMTQTFAF,0,G K C Q L R M W A Q M T Q T F A F
+AntioxidantTrain,IVDDMDFYWIINMNTVMQ,0,I V D D M D F Y W I I N M N T V M Q
+AntioxidantTrain,HTEYHTLCHCGEMNCHPHW,0,H T E Y H T L C H C G E M N C H P H W
+AntioxidantTrain,LHNTAKDAACCVMNQWYQNF,0,L H N T A K D A A C C V M N Q W Y Q N F
+AntioxidantTrain,IFTIR,0,I F T I R
+AntioxidantTrain,TMKTFW,0,T M K T F W
+AntioxidantTrain,WAYMA,0,W A Y M A
+AntioxidantTrain,AMNGDQSDHRDIVP,0,A M N G D Q S D H R D I V P
+AntioxidantTrain,FSTYFHYCI,0,F S T Y F H Y C I
+AntioxidantTrain,NFT,0,N F T
+AntioxidantTrain,YNI,0,Y N I
+AntioxidantTrain,KIM,0,K I M
+AntioxidantTrain,ISCSG,0,I S C S G
+AntioxidantTrain,RQILV,0,R Q I L V
+AntioxidantTrain,SCVHES,0,S C V H E S
+AntioxidantTrain,QMN,0,Q M N
+AntioxidantTrain,ERN,0,E R N
+AntioxidantTrain,IGSGDNCCFSL,0,I G S G D N C C F S L
+AntioxidantTrain,QMSPTKMQSQ,0,Q M S P T K M Q S Q
+AntioxidantTrain,GVTCTTHWP,0,G V T C T T H W P
+AntioxidantTrain,ITHT,0,I T H T
+AntioxidantTrain,NPYNCEHCKLRRIF,0,N P Y N C E H C K L R R I F
+AntioxidantTrain,MKSI,0,M K S I
+AntioxidantTrain,NWKE,0,N W K E
+AntioxidantTrain,QRC,0,Q R C
+AntioxidantTrain,TQVWAMKEMR,0,T Q V W A M K E M R
+AntioxidantTrain,FSQW,0,F S Q W
+AntioxidantTrain,QWEWSLK,0,Q W E W S L K
+AntioxidantTrain,DNSWWDPTS,0,D N S W W D P T S
+AntioxidantTrain,KMPCQDEV,0,K M P C Q D E V
+AntioxidantTrain,RTF,0,R T F
+AntioxidantTrain,NNK,0,N N K
+AntioxidantTrain,MCRMN,0,M C R M N
+AntioxidantTrain,TEINWQ,0,T E I N W Q
+AntioxidantTrain,YFRS,0,Y F R S
+AntioxidantTrain,KWQW,0,K W Q W
+AntioxidantTrain,RDFAEQF,0,R D F A E Q F
+AntioxidantTrain,MCN,0,M C N
+AntioxidantTrain,GMNDRR,0,G M N D R R
+AntioxidantTrain,AKTCLFM,0,A K T C L F M
+AntioxidantTrain,WCQT,0,W C Q T
+AntioxidantTrain,WIR,0,W I R
+AntioxidantTrain,CGEVSRNRN,0,C G E V S R N R N
+AntioxidantTrain,CVRFG,0,C V R F G
+AntioxidantTrain,RCPQH,0,R C P Q H
+AntioxidantTrain,SRNT,0,S R N T
+AntioxidantTrain,QFR,0,Q F R
+AntioxidantTrain,KS,0,K S
+AntioxidantTrain,CCEYNWATWL,0,C C E Y N W A T W L
+AntioxidantTrain,RG,0,R G
+AntioxidantTrain,IINQTE,0,I I N Q T E
+AntioxidantTrain,RLAYTWQGMC,0,R L A Y T W Q G M C
+AntioxidantTrain,KCN,0,K C N
+AntioxidantTrain,RPSQADCC,0,R P S Q A D C C
+AntioxidantTrain,QMA,0,Q M A
+AntioxidantTrain,TVTI,0,T V T I
+AntioxidantTrain,HCTDNP,0,H C T D N P
+AntioxidantTrain,YRVNRN,0,Y R V N R N
+AntioxidantTrain,NDMFTQ,0,N D M F T Q
+AntioxidantTrain,TND,0,T N D
+AntioxidantTrain,CTLFHESMCNCER,0,C T L F H E S M C N C E R
+AntioxidantTrain,IHICCR,0,I H I C C R
+AntioxidantTrain,LVWIFWMM,0,L V W I F W M M
+AntioxidantTrain,KSN,0,K S N
+AntioxidantTrain,FRC,0,F R C
+AntioxidantTrain,RS,0,R S
+AntioxidantTrain,TKW,0,T K W
+AntioxidantTrain,MNP,0,M N P
+AntioxidantTrain,KYCFEYCTLDKSQ,0,K Y C F E Y C T L D K S Q
+AntioxidantTest,WV,1,W V
+AntioxidantTest,YY,1,Y Y
+AntioxidantTest,LFC,1,L F C
+AntioxidantTest,CGA,1,C G A
+AntioxidantTest,ENG,1,E N G
+AntioxidantTest,IDA,1,I D A
+AntioxidantTest,ALN,1,A L N
+AntioxidantTest,LDT,1,L D T
+AntioxidantTest,KKY,1,K K Y
+AntioxidantTest,CHI,1,C H I
+AntioxidantTest,LLY,1,L L Y
+AntioxidantTest,LHE,1,L H E
+AntioxidantTest,LHQ,1,L H Q
+AntioxidantTest,LWN,1,L W N
+AntioxidantTest,PWR,1,P W R
+AntioxidantTest,FYY,1,F Y Y
+AntioxidantTest,HHPL,1,H H P L
+AntioxidantTest,YEGS,1,Y E G S
+AntioxidantTest,YPYY,1,Y P Y Y
+AntioxidantTest,YLYP,1,Y L Y P
+AntioxidantTest,ALSAF,1,A L S A F
+AntioxidantTest,SNAAC,1,S N A A C
+AntioxidantTest,IEEAF,1,I E E A F
+AntioxidantTest,IFVPH,1,I F V P H
+AntioxidantTest,IRWWW,1,I R W W W
+AntioxidantTest,VECYG,1,V E C Y G
+AntioxidantTest,YPFPG,1,Y P F P G
+AntioxidantTest,HQIYPV,1,H Q I Y P V
+AntioxidantTest,KIIIYN,1,K I I I Y N
+AntioxidantTest,KILIYG,1,K I L I Y G
+AntioxidantTest,QNGRFY,1,Q N G R F Y
+AntioxidantTest,SSHWSS,1,S S H W S S
+AntioxidantTest,DVFNPR,1,D V F N P R
+AntioxidantTest,SEGFEW,1,S E G F E W
+AntioxidantTest,TIASGEP,1,T I A S G E P
+AntioxidantTest,PVRGLHP,1,P V R G L H P
+AntioxidantTest,GPAGPAG,1,G P A G P A G
+AntioxidantTest,TRTGDPFF,1,T R T G D P F F
+AntioxidantTest,FVAPAGTINY,1,F V A P A G T I N Y
+AntioxidantTest,AQGTFLQPHQ,1,A Q G T F L Q P H Q
+AntioxidantTest,AGNDGFEYVTLK,1,A G N D G F E Y V T L K
+AntioxidantTest,SEALGVSSQVARQ,1,S E A L G V S S Q V A R Q
+AntioxidantTest,GAHTGPRKPFKPR,1,G A H T G P R K P F K P R
+AntioxidantTest,GPIVLNPWDQVKR,1,G P I V L N P W D Q V K R
+AntioxidantTest,GVSKVKEAMAPKH,1,G V S K V K E A M A P K H
+AntioxidantTest,KHQGLPQEVLNENLL,1,K H Q G L P Q E V L N E N L L
+AntioxidantTest,RLSLPAGAPVTVAVSP,1,R L S L P A G A P V T V A V S P
+AntioxidantTest,QAGTGAGAGGGAGTKTSS,1,Q A G T G A G A G G G A G T K T S S
+AntioxidantTest,REGGGGGYGGGGGGYGGR,1,R E G G G G G Y G G G G G G Y G G R
+AntioxidantTest,DIPNPIGSENSGKTTMPLW,1,D I P N P I G S E N S G K T T M P L W
+AntioxidantTest,TDAPSFSDIPNPIGSENSGK,1,T D A P S F S D I P N P I G S E N S G K
+AntioxidantTest,CF,0,C F
+AntioxidantTest,MS,0,M S
+AntioxidantTest,FI,0,F I
+AntioxidantTest,NVHRRTVFKVMTRGHLVM,0,N V H R R T V F K V M T R G H L V M
+AntioxidantTest,NVT,0,N V T
+AntioxidantTest,TWD,0,T W D
+AntioxidantTest,NHI,0,N H I
+AntioxidantTest,NNN,0,N N N
+AntioxidantTest,MGS,0,M G S
+AntioxidantTest,MPN,0,M P N
+AntioxidantTest,CVC,0,C V C
+AntioxidantTest,IQH,0,I Q H
+AntioxidantTest,QDI,0,Q D I
+AntioxidantTest,DNW,0,D N W
+AntioxidantTest,ICE,0,I C E
+AntioxidantTest,RNI,0,R N I
+AntioxidantTest,NFR,0,N F R
+AntioxidantTest,CEDK,0,C E D K
+AntioxidantTest,CRQC,0,C R Q C
+AntioxidantTest,CWAL,0,C W A L
+AntioxidantTest,YSMD,0,Y S M D
+AntioxidantTest,WCEV,0,W C E V
+AntioxidantTest,CWMN,0,C W M N
+AntioxidantTest,CDIQL,0,C D I Q L
+AntioxidantTest,IWQVA,0,I W Q V A
+AntioxidantTest,NWQFDP,0,N W Q F D P
+AntioxidantTest,CTVAGH,0,C T V A G H
+AntioxidantTest,NWMWRA,0,N W M W R A
+AntioxidantTest,ARMVVC,0,A R M V V C
+AntioxidantTest,HAHMNEG,0,H A H M N E G
+AntioxidantTest,MAQCETM,0,M A Q C E T M
+AntioxidantTest,MINHDIR,0,M I N H D I R
+AntioxidantTest,WQRADANN,0,W Q R A D A N N
+AntioxidantTest,MVYTKRPFM,0,M V Y T K R P F M
+AntioxidantTest,MEFPCAPHS,0,M E F P C A P H S
+AntioxidantTest,EINDENSWWA,0,E I N D E N S W W A
+AntioxidantTest,FCWKQGSVGN,0,F C W K Q G S V G N
+AntioxidantTest,CNGWIMWMNI,0,C N G W I M W M N I
+AntioxidantTest,RMYQPMHGSG,0,R M Y Q P M H G S G
+AntioxidantTest,CKKHDHYWFHS,0,C K K H D H Y W F H S
+AntioxidantTest,CMNPYGTMKLDR,0,C M N P Y G T M K L D R
+AntioxidantTest,QCNCVVNTHSMAL,0,Q C N C V V N T H S M A L
+AntioxidantTest,FRYYFKRVQWMLC,0,F R Y Y F K R V Q W M L C
+AntioxidantTest,HHNMGWMLYDRNMR,0,H H N M G W M L Y D R N M R
+AntioxidantTest,MFRDQTHNQSHDHNK,0,M F R D Q T H N Q S H D H N K
+AntioxidantTest,ESRCLFGFCKHHLNI,0,E S R C L F G F C K H H L N I
+AntioxidantTest,KGTCLCKESWHQNGA,0,K G T C L C K E S W H Q N G A
+AntioxidantTest,DNIIFQYKRALNMIHNK,0,D N I I F Q Y K R A L N M I H N K
+AntioxidantTest,HDWRLSMEW,0,H D W R L S M E W
+AntioxidantTest,WRHQASHYLVF,0,W R H Q A S H Y L V F
+AntioxidantTest,EIW,0,E I W
+AntioxidantTest,AKWIC,0,A K W I C
+AntioxidantTest,IWR,0,I W R
+AntioxidantTest,KMQYTTHSCII,0,K M Q Y T T H S C I I
+AntioxidantTest,EFV,0,E F V
+AntioxidantTest,CVRN,0,C V R N
+AntioxidantTest,AYNWT,0,A Y N W T
+AntioxidantTest,VMR,0,V M R
+AntioxidantTest,RAFM,0,R A F M
+AntioxidantTest,FNMCHKCSKD,0,F N M C H K C S K D
+AntioxidantTest,IFQSFV,0,I F Q S F V
