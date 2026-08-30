@@ -114,42 +114,6 @@ python AOP.py \
   --select_metric Accuracy
 ```
 
-## Main Arguments
-
-| Argument | Default | Description |
-|---|---:|---|
-| `--csv_path` | `AOP_data/AnOxPP/AnOxPP.csv` | Input CSV path |
-| `--output_dir` | `AOP-outputs-accuracy-boost-AnOxPP` | Directory for results |
-| `--model_name` | `Rostlab/prot_t5_xl_uniref50` | Hugging Face model |
-| `--n_splits` | `5` | Number of CV folds |
-| `--epochs` | `10` | Maximum epochs per fold |
-| `--batch_size` | `4` | Batch size |
-| `--num_workers` | `2` | DataLoader workers |
-| `--max_len` | `256` | Maximum tokenized sequence length |
-| `--lr_head` | `2e-4` | Learning rate for classification head |
-| `--lr_encoder` | `8e-6` | Learning rate for unfrozen encoder layers |
-| `--weight_decay` | `1e-2` | AdamW weight decay |
-| `--warmup_ratio` | `0.1` | Scheduler warmup ratio |
-| `--early_stopping_patience` | `4` | Early-stopping patience |
-| `--seed` | `42` | Random seed |
-| `--dropout` | `0.35` | Classification-head dropout |
-| `--unfreeze_last_n_layers` | `2` | Number of final ProtT5 layers to fine-tune |
-| `--grad_accum_steps` | `1` | Gradient accumulation steps |
-| `--max_grad_norm` | `1.0` | Gradient clipping norm |
-| `--ema_decay` | `0.999` | EMA decay |
-| `--use_focal_loss` | off | Enable focal loss |
-| `--focal_alpha` | `0.25` | Focal-loss alpha |
-| `--focal_gamma` | `2.0` | Focal-loss gamma |
-| `--select_metric` | `Accuracy` | Metric used for model/threshold selection |
-| `--gradient_checkpointing` | off | Enable gradient checkpointing |
-| `--no_amp` | off | Disable automatic mixed precision |
-
-Available values for `--select_metric` are:
-
-```text
-Accuracy, MCC, Precision, Sensitivity, Specificity
-```
-
 ## Evaluation Metrics
 
 The pipeline reports:
